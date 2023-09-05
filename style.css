@@ -38,6 +38,7 @@ td, th{
     text-align: center;
     width: 20%;
     font-size: 30px;
+    cursor: pointer;
 }
 
 #free, .trocaCor{
